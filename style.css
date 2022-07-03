@@ -1,0 +1,66 @@
+/*bio*/
+h3{
+    color: black;
+}
+h6{
+    color: black;
+}
+p, tr{
+    text-align:center;
+    background-color: rgb(black);
+}
+body {
+  background-color: rgb(253, 252, 253);
+}
+body {
+    background-image: url(image/HOMEPAGE.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+/*contact*/
+h3{
+    color: black;
+}
+h6{
+    color: black;
+}
+p,tr{
+    text-align:center;
+    background-color: rgb(black);
+}
+body {
+  background-color: rgb(253, 252, 253);
+}
+body{
+    background-image: url(image/HOMEPAGE.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+  /*Navigation bar*/
+body{
+    margin: 0;
+    font-family:'Gill sans', 'Gill Sans MT', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0,0,0);
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: rgb(190,192,178);
+}
+
+.topnav a {
+    float:left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    width: 250;
+}* {
+    box-sizing: border-box;
+}
+
+  
